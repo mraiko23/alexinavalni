@@ -1,0 +1,13 @@
+# NPM Configuration for Plants vs Brainrots Stock Tracker
+
+# Use production mode by default
+production=false
+
+# Save exact versions in package-lock.json
+save-exact=true
+
+# Engine strict mode
+engine-strict=true
+
+# Progress bar
+progress=true
